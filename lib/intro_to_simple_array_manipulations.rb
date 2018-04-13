@@ -34,3 +34,7 @@ end
 def using_uniq(arg)
   arg.uniq
 end
+
+def using_flatten(array)
+  array.flatten
+end
